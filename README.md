@@ -52,7 +52,7 @@ cross-language-chatroom/
 └── README.md             # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
