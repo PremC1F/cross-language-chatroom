@@ -126,7 +126,7 @@ npm run dev
 - **User list**: Click the "Users" tab to see connected users
 - **AI Summary**: Click the "Summary" tab and generate a chat summary
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **Node.js** - Runtime environment
