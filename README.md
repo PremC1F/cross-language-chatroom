@@ -198,7 +198,7 @@ npm start
 2. Set environment variables
 3. Update CORS settings for your domain
 
-## 🎨 Customization Ideas
+## Customization Ideas
 
 ### Easy Extensions
 1. **Add more languages** - Extend the language list and translation mappings
