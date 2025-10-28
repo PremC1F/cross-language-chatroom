@@ -1,4 +1,4 @@
-# 🌐 Cross-Language Chatroom
+# 🌐Cross-Language Chatroom
 
 A real-time cross-language chatroom web application with AI translation and summarization features. Perfect for portfolio demonstration and showcasing modern web development skills.
 
