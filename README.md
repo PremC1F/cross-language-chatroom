@@ -4,9 +4,9 @@ A real-time cross-language chatroom web application with AI translation and summ
 
 ![Cross-Language Chatroom](https://img.shields.io/badge/React-18.2.0-blue) ![Node.js](https://img.shields.io/badge/Node.js-Express-green) ![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--time-orange) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.6-cyan)
 
-## ✨ Features
+## Features
 
-### 🚀 Core Functionality
+### Core Functionality
 - **Real-time messaging** with Socket.IO
 - **Cross-language translation** (English, Spanish, French, German)
 - **Auto-scroll** to latest messages
@@ -14,18 +14,18 @@ A real-time cross-language chatroom web application with AI translation and summ
 - **User management** with connected users list
 - **Mobile-responsive** design
 
-### 🌍 Translation Features
+### Translation Features
 - **Automatic translation** of messages to user's preferred language
 - **Dual display** showing both original and translated text
 - **Language selection** on join
 - **Fallback translation** system for demo purposes
 
-### 🤖 AI Features
+### AI Features
 - **Chat summarization** of last 10 messages
 - **Mock AI service** for demo (easily extensible to real AI)
 - **Summary export** capabilities
 
-### 🎨 UI/UX Features
+### UI/UX Features
 - **Clean, modern interface** with TailwindCSS
 - **Message bubbles** with different colors for own/others
 - **Timestamps** on all messages
@@ -33,7 +33,7 @@ A real-time cross-language chatroom web application with AI translation and summ
 - **Tabbed interface** (Chat, Users, Summary)
 - **Connection status** indicators
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 cross-language-chatroom/
@@ -107,7 +107,7 @@ cd client
 npm run dev
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Joining the Chat
 1. Enter your username
@@ -172,7 +172,7 @@ HUGGINGFACE_API_KEY=your_huggingface_api_key_here
 - **Styling**: Customize TailwindCSS in `client/tailwind.config.js`
 - **Ports**: Change ports in `server/index.js` and `client/vite.config.js`
 
-## 🚀 Deployment
+## Deployment
 
 ### Local Production Build
 
@@ -219,7 +219,7 @@ npm start
 3. **Smart replies** - Suggest responses based on context
 4. **Language detection** - Auto-detect message language
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -250,7 +250,7 @@ The application is fully responsive and works on:
 - Mobile browsers (iOS Safari, Chrome Mobile)
 - Tablet devices
 
-## 🤝 Contributing
+## Contributing
 
 This is a portfolio demo project, but feel free to:
 1. Fork the repository
@@ -258,11 +258,11 @@ This is a portfolio demo project, but feel free to:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+## License
 
 MIT License - feel free to use this project for your portfolio or learning purposes.
 
-## 🎯 Interview Talking Points
+## Interview Talking Points
 
 When presenting this project, you can highlight:
 
